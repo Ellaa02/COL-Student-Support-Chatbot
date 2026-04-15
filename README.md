@@ -10,6 +10,7 @@
 ![Status](https://img.shields.io/badge/Status-Prototype%20Complete-4ADE80?style=for-the-badge)
 
 ---
+<img width="799" height="521" alt="image" src="https://github.com/user-attachments/assets/793cc7ad-c34f-4422-b504-05eea3fb98ba" />
 
 ## 📌 Why This Matters
 
