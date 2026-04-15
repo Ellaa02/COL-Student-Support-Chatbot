@@ -1,3 +1,6 @@
+# we did not need code using the microsoft platform this code works with the google genai
+# it was created due the the assignment requiring code even when our platform did not
+
 import google.generativeai as genai
 import pandas as pd
 
