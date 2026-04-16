@@ -165,11 +165,11 @@ Key prompt design decisions:
 | Thank You / Goodbye | "thanks", "bye" | Warm closing + reminds of support email |
 | Feedback | "wrong answer", "that's incorrect" | Acknowledges + routes to human |
 
-### Prototype Demo
+### Live Chatbot Demo
 
-A working HTML prototype demonstrating the full workflow — including the live knowledge base update simulation — is available here:
+Try our deployed chatbot prototype here (Note: This may require you to login to Microsoft using W&M Credentials):
 
-👉 **[Live Demo]((https://copilotstudio.microsoft.com/environments/Default-b93cbc3e-661d-4058-8693-a897b924b8d7/bots/50bf6e5c-3a2c-f111-88b4-7ced8d6f06c2/publish))**
+👉 [Launch Student Support Chatbot](https://copilotstudio.microsoft.com/environments/Default-b93cbc3e-661d-4058-8693-a897b924b8d7/bots/50bf6e5c-3a2c-f111-88b4-7ced8d6f06c2/publish)
 
 ---
 
